@@ -1,2 +1,2 @@
 # Competitions
-This Repository has my Competitions / Hackathon details
+This Repository has my Competitions / Hackathon details 
